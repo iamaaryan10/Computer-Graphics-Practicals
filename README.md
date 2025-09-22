@@ -1,6 +1,7 @@
 # Computer Graphics Project Repository (Team 14)
 
 This repository contains projects 1 to 6 that we have created:
+
 23BCG10009 AARYAN SHRIVASTAVA
 
 23BCG10018 KASAK JAJODIA
