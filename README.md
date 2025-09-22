@@ -2,12 +2,19 @@
 
 This repository contains projects 1 to 6 that we have created:
 23BCG10009 AARYAN SHRIVASTAVA
+
 23BCG10018 KASAK JAJODIA
+
 23BCG10049 AKSHAT TYAGI
+
 23BCG10114 DHRUV TULI
+
 23BCG10122 ROHAN SAXENA
+
 23BCG10127 PRAVESH
+
 23BCG10142 RAGHAV CHANDAK
+
 ---
 
 ## 1. Experiment 6: "Adding Foliage, Fire, and Smoke with paint effects."
