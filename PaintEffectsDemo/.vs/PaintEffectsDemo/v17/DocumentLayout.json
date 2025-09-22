@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\PaintEffectsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E592E42-3377-4DCA-AC41-2DBF16A04929}|PaintEffectsDemo\\PaintEffectsDemo.csproj|c:\\users\\acer\\source\\repos\\painteffectsdemo\\painteffectsdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E592E42-3377-4DCA-AC41-2DBF16A04929}|PaintEffectsDemo\\PaintEffectsDemo.csproj|solutionrelative:painteffectsdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E592E42-3377-4DCA-AC41-2DBF16A04929}|PaintEffectsDemo\\PaintEffectsDemo.csproj|c:\\users\\acer\\source\\repos\\painteffectsdemo\\painteffectsdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E592E42-3377-4DCA-AC41-2DBF16A04929}|PaintEffectsDemo\\PaintEffectsDemo.csproj|solutionrelative:painteffectsdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E592E42-3377-4DCA-AC41-2DBF16A04929}|PaintEffectsDemo\\PaintEffectsDemo.csproj|c:\\users\\acer\\source\\repos\\painteffectsdemo\\painteffectsdemo\\painteffectsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E592E42-3377-4DCA-AC41-2DBF16A04929}|PaintEffectsDemo\\PaintEffectsDemo.csproj|solutionrelative:painteffectsdemo\\painteffectsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaintEffectsDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\PaintEffectsDemo\\PaintEffectsDemo\\PaintEffectsDemo.csproj",
+              "RelativeDocumentMoniker": "PaintEffectsDemo\\PaintEffectsDemo.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\PaintEffectsDemo\\PaintEffectsDemo\\PaintEffectsDemo.csproj",
+              "RelativeToolTip": "PaintEffectsDemo\\PaintEffectsDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T06:39:18.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\PaintEffectsDemo\\PaintEffectsDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PaintEffectsDemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\PaintEffectsDemo\\PaintEffectsDemo\\MainWindow.xaml",
+              "RelativeToolTip": "PaintEffectsDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-09T06:30:21.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\PaintEffectsDemo\\PaintEffectsDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PaintEffectsDemo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\PaintEffectsDemo\\PaintEffectsDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PaintEffectsDemo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:30:15.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
