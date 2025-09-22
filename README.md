@@ -65,8 +65,8 @@ This Unity project demonstrates particle simulations using nParticles and expres
 ## Team 14
 **Aaryan Shrivastava**  
 
-- GitHub: [Your GitHub Profile Link]  
-- Email: [Optional]
+- GitHub: (https://github.com/iamaaryan10)  
+- Email: aaryan.23bcg10009@vitbhopal.ac.in
 
 ---
 
