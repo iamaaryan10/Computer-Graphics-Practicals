@@ -40,6 +40,29 @@ This is a Visual Studio project where I created a painting effects application. 
 
 ---
 
+## 3. Experiment 7: "Creating Water, Smoke and Sparks with nParticles" (Exp7)
+
+**Description:**  
+This Unity project demonstrates particle-based visual effects for natural phenomena like **water, smoke, and sparks** using Unity’s particle system and custom expressions.
+
+**Features:**  
+- Realistic water particle flow simulation  
+- Smoke generation with transparency and turbulence  
+- Spark effects with physics-based motion and decay  
+- Expressions/scripts to control particle behavior dynamically  
+
+**Technologies Used:**  
+- Unity Engine  
+- C# scripting for particle behavior  
+- Unity Particle System (Shuriken)  
+
+**How to Run:**  
+1. Open the project folder in **Unity Hub**.  
+2. Load the scene file for **Exp7**.  
+3. Press **Play** to run the simulation and view water, smoke, and spark effects in action.  
+
+---
+
 ## 2. Experiment 8: "Generating nParticle Swarms and Bubble Masses with Expressions"
 
 **Description:**  
