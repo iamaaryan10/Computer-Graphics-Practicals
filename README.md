@@ -1,6 +1,6 @@
 # Computer Graphics Project Repository (Team 14)
 
-This repository contains projects 1 to 6 that we have created:
+This repository contains experiment 6 to 10 that we have created:
 
 23BCG10009 AARYAN SHRIVASTAVA
 
