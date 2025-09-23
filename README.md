@@ -61,8 +61,7 @@ A Unity project demonstrating particle-based visual effects for water, smoke, an
 3. Press **Play** to run the simulation.
 
 📸 **Screenshots:**  
-![WhatsApp Image 2025-09-23 at 12 36 40_c5013018](https://github.com/user-attachments/assets/362372fa-5fd1-449f-bbc6-0875649f7c3f)
-![WhatsApp Image 2025-09-23 at 12 37 47_0ca9a549](https://github.com/user-attachments/assets/0cbf6226-df60-4b3d-b10a-85271f0c0801)
+
 
 
 
@@ -88,7 +87,8 @@ This Unity project demonstrates particle swarm simulations using nParticles and 
 3. Press **Play** to run the simulation.
 
 📸 **Screenshots:**  
-<!-- Add images here -->
+![WhatsApp Image 2025-09-23 at 12 36 40_c5013018](https://github.com/user-attachments/assets/362372fa-5fd1-449f-bbc6-0875649f7c3f)
+![WhatsApp Image 2025-09-23 at 12 37 47_0ca9a549](https://github.com/user-attachments/assets/0cbf6226-df60-4b3d-b10a-85271f0c0801)
 
 ---
 
