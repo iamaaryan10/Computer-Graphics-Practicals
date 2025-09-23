@@ -40,7 +40,7 @@ This is a Visual Studio project where I created a painting effects application. 
 
 ---
 
-## 3. Experiment 7: "Creating Water, Smoke and Sparks with nParticles" (Exp7)
+## 3. Experiment 7: "Creating Water, Smoke and Sparks with nParticles"
 
 **Description:**  
 This Unity project demonstrates particle-based visual effects for natural phenomena like **water, smoke, and sparks** using Unity’s particle system and custom expressions.
