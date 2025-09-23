@@ -62,6 +62,7 @@ A Unity project demonstrating particle-based visual effects for water, smoke, an
 
 📸 **Screenshots:**  
 
+<img width="988" height="561" alt="image" src="https://github.com/user-attachments/assets/90663d1c-c7da-4b5d-9f88-8924edf402a3" />
 
 
 
